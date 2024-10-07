@@ -1,0 +1,1 @@
+Hi, I have created a two file in my Repo name numbersystem in which the file name are index.js followed by app.js in which index.js contains an array which checks it is Even or Odd Numbers while app.js contains an Array which calculated the number is Prime Number.
